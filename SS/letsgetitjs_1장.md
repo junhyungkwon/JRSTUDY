@@ -9,8 +9,8 @@ vscode, chrome 설치
 * 흔히 발생하는 오류
 - Uncaught ReferenceError : console is not defined 콘솔 입력중 오타 발생 에러 대소문자 구분
 - Uncaught TypeError : console.lg is not a function 콘솔 입력은 제대로, log에서 오타가 나면 발생 에러 대소문자 구분
-Uncaught SyntaxError : missing ) after argument list : 따옴표 사용하지 않았을 때 발생 에러
-Uncaught SyntaxError : Invalid or unexpected token : 따옴표 짝 맞추지 않았을때 발생 에러
+- Uncaught SyntaxError : missing ) after argument list : 따옴표 사용하지 않았을 때 발생 에러
+- Uncaught SyntaxError : Invalid or unexpected token : 따옴표 짝 맞추지 않았을때 발생 에러
 
 REPL(Read-Eval-Print Loop) : 콘솔 한줄씩 처리
 
