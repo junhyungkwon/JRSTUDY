@@ -11,6 +11,9 @@ SS/letsgetitjs_2장.md [참조](./SS/letsgetitjs_2장.md)
 SS/letsgetitjs_4장.md [참조](./SS/letsgetitjs_4장.md)
  : 계산기(함수)
  
+SS/letsgetitjs_6장.md [참조](./SS/letsgetitjs_6장.md)
+ : 로또 추첨기(타이머)
+ 
 # 8/2 스터디 완료
 - 다음 스터디
 박성수:4장
