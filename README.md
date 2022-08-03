@@ -13,7 +13,10 @@ SS/letsgetitjs_4장.md [참조](./SS/letsgetitjs_4장.md)
  
 SS/letsgetitjs_6장.md [참조](./SS/letsgetitjs_6장.md)
  : 로또 추첨기(타이머)
- 
+
+SS/letsgetitjs_7장.md [참조](./SS/letsgetitjs_7장.md)
+ : 가위바위보 게임(객체)
+
 # 8/2 스터디 완료
 - 다음 스터디
 박성수:4장
