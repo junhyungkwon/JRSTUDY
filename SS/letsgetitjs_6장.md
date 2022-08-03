@@ -13,4 +13,4 @@
 비교함수 (a, b) => {return 반환값} // 0보다 크면 b, a 순, 0보다 작으면 a, b 순
 ```
 
-
+[lotto.html](./6장/lotto.html)
