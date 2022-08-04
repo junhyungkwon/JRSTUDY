@@ -2,6 +2,7 @@
 <head>
   <meta charset="utf-8">
   <title>로또추첨기</title>
+
   <style>
     .ball {
       display: inline-block;
@@ -18,16 +19,21 @@
 </head>
 
 <body>
+
 <div id="result">추첨 결과는? </div>
 <div id="bonus">보너스: </div>
+
 <script>
+
     const candidate = Array(45).fill().map((v, i) => i + 1);
     const shuffle = [];
+
     for (let i = candidate.length; i > 0; i--) {
         const random = Math.floor(Math.random() * i);
         const spliceArray = candidate.splice(random, 1);
         const value = spliceArray[0];
         shuffle.push(value);
+
     }
     console.log(shuffle);
     const winBalls = shuffle.slice(0, 6).sort((a, b) => a - b);
@@ -46,9 +52,11 @@
         }, 1000 * (i + 1));
     }
 
+
     const $bonus = document.querySelector('#bonus');
     setTimeout(() => {
         drawBall(bonus, $bonus);
     }, 7000);
+
 </script>
 </body>
