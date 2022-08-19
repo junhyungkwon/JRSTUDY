@@ -1,5 +1,5 @@
 # JRSTUDY
-js,react 스터디
+Js,React 스터디
 
 ## SS
 SS/letsgetitjs_1장.md [참조](./SS/letsgetitjs_1장.md)
@@ -23,9 +23,11 @@ SS/letsgetitjs_7장.md [참조](./SS/letsgetitjs_7장.md)
 최은하:6장
 권준형:6장
 민석홍:7장
+(제로초의 JavaScript 프로그래밍 완료)
 
 # 8/9 스터디 완료
 - 다음 스터디
+모던 자바스크립트 Deep Dive 시작
 박성수:1장
 최은하:4장
 권준형:2장
