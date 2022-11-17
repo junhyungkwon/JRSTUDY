@@ -347,5 +347,5 @@ function reverseString(str) {
     return str.split('').reverse().join('');
 }
 
-reverseString('Hello world!'); // dlrow olleH
+reverseString('Hello world!'); // 'dlrow olleH'
 ```
