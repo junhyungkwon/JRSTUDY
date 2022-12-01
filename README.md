@@ -1,9 +1,10 @@
-# JRSTUDY
-Js,React 스터디     
+# JRSTUDY        
+```
 일시 : 화요일 저녁 10시 30분~ 12시    
 장소 : 네이버 웨일온      
 과제 : 하나의 챕터를 md파일로 정리해오기.       
-스터디 : 정리해온 md파일을 발표하기.      
+스터디 : 정리해온 md파일을 발표하기.  
+```
  
 ## SS
 SS/letsgetitjs_1장.md [참조](./SS/letsgetitjs_1장.md)
