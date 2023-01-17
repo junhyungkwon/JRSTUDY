@@ -22,7 +22,7 @@
 
 
  
-## SS
+## SS(Let's Get IT 자바스크립트 프로그래밍)    
 SS/letsgetitjs_1장.md [참조](./SS/letsgetitjs_1장.md)
  : Hello, JavaScript!
 
