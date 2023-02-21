@@ -224,6 +224,10 @@ SS/letsgetitjs_7장.md [참조](./SS/letsgetitjs_7장.md)
 이다정:46장 ~ 49장       
 모던 자바스크립트 Deep Dive 완료     
 
+# 2/21 스터디 완료                        
+모던 자바스크립트 Deep Dive 완료         
+
+
 
 
 
