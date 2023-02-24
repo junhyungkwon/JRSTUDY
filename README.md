@@ -1,5 +1,5 @@
 # JR STUDY(Javascript, React)            
-<img width="248" alt="스크린샷 2023-02-24 오후 4 16 30" src="https://user-images.githubusercontent.com/78072931/221116117-d35dfd0e-5935-40e5-842f-ddc22804d47e.png">
+<img width="248" alt="스크린샷 2023-02-24 오후 4 16 30" src="https://user-images.githubusercontent.com/78072931/221116117-d35dfd0e-5935-40e5-842f-ddc22804d47e.png"> <img width="214" alt="스크린샷 2023-02-24 오후 4 17 26" src="https://user-images.githubusercontent.com/78072931/221116282-9ec55431-578f-4e1e-86b6-5aa4a4d07c3f.png">
 
 
 # 스터디 멤버    
