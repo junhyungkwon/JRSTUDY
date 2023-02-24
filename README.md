@@ -1,5 +1,6 @@
 # JR STUDY(Javascript, React)            
-<img width="417" alt="스크린샷 2023-01-10 오후 7 56 29" src="https://user-images.githubusercontent.com/78072931/211533309-5d024686-9268-44b8-9cc5-9fd9dd09c9db.png">
+<img width="248" alt="스크린샷 2023-02-24 오후 4 16 30" src="https://user-images.githubusercontent.com/78072931/221116117-d35dfd0e-5935-40e5-842f-ddc22804d47e.png">
+
 
 # 스터디 멤버    
 * 권준형(스터디장)     
